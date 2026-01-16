@@ -1,6 +1,6 @@
 ## List of awesome OLLVM
 
-- [obfuscator](#obfuscator)
+- [Obfuscator](#obfuscator)
 - [Hikari](#Hikari)
 - [Pluto](#Pluto)
 - [goron](#goron)
@@ -53,11 +53,11 @@ Arkari, based on goron, supports LLVM 14~newest.
 
 ### Pluto
 
-~~[https://github.com/bluesadi/Pluto](https://github.com/bluesadi/Pluto)~~
+[https://github.com/bluesadi/Pluto](https://github.com/bluesadi/Pluto)
 
-Pluto, supports LLVM 14, currently closed-source. Features(in addtion to Obfuscator):
+Pluto, supports LLVM 14. Features(in addtion to Obfuscator):
 * MBA Obfuscation
-* Random ControlFlow
+* Random Control Flow
 * Split Basic Block
 * Trap Angr
 
@@ -113,6 +113,10 @@ O-MVLL is a LLVM-based obfuscator driven by Python and the LLVM pass manager. Fe
 * [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp). AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP. 
 * [WPeChatGPT](https://github.com/WPeace-HcH/WPeChatGPT). Analyze binary file, based on commonly used AI big models such as OpenAI and DeepSeek.
 
+Other useful repositories:
+* [GhidraMCP](https://github.com/LaurieWired/GhidraMCP). MCP Server for Ghidra.
+* [LLM4Decompile](https://github.com/albertan017/LLM4Decompile). Reverse Engineering: Decompiling Binary Code with Large Language Models.
+
 ### Ctree
 
 * [herast](https://github.com/Mizari/herast). Framework to automate working with AST in IDA Pro.
@@ -120,10 +124,6 @@ O-MVLL is a LLVM-based obfuscator driven by Python and the LLVM pass manager. Fe
 * [HexraysToolbox](https://github.com/patois/HexraysToolbox). Find code patterns within the Hexrays ctree.
 * [HrDevHelper](https://github.com/patois/HRDevHelper). HexRays ctree visualization plugin.
 * [strikeout](https://github.com/allthingsida/strikeout). A Hex-Rays decompiler plugin to patch the Ctree.
-
-Other useful repositories:
-* [GhidraMCP](https://github.com/LaurieWired/GhidraMCP). MCP Server for Ghidra.
-* [LLM4Decompile](https://github.com/albertan017/LLM4Decompile). Reverse Engineering: Decompiling Binary Code with Large Language Models.
 
 ### Decryption
 
@@ -167,9 +167,11 @@ Other useful repositories:
 * [D-810](https://gitlab.com/eshard/d810). Deobfuscate code at decompilation time by modifying IDA Pro microcode.
 * [HexRaysDeob](https://github.com/RolfRolles/HexRaysDeob). A plugin for breaking an obfuscating compiler.
 * [hrtng](https://github.com/KasperskyLab/hrtng). IDA Pro plugin with a rich set of features: decryption, deobfuscation, patching, lib code recognition and various pseudocode transformations.
+* [MODeflattener](https://github.com/mrT4ntr4/MODeflattener). MODeflattener deobfuscates control flow flattened functions obfuscated by OLLVM using Miasm.
 * [ObfDetect](https://github.com/mcdulltii/obfDetect). IDA plugin to pinpoint obfuscated code.
-* [Stadeo](https://github.com/eset/stadeo). Control-flow-flattening and string deobfuscator.
 * [obpo-plugin](https://github.com/obpo-project/obpo-plugin). An OLLVM-CFF Deobfuscation Plugin.
+* [ollvm-unflattener](https://github.com/cdong1012/ollvm-unflattener). Obfuscator-llvm Control Flow Flattening Deobfuscator.
+* [Stadeo](https://github.com/eset/stadeo). Control-flow-flattening and string deobfuscator.
 
 ### VMP
 

@@ -2,7 +2,7 @@
 
 以下OLLVM类型项目不会录入:
 * 仅是将其他OLLVM对高版本LLVM做兼容, 没有增加实质功能的项目
-* 仅支持Windows+x86的OLLVM项目
+* 仅支持Windows+x86/x64的OLLVM项目
 
 以下IDA插件项目不会录入:
 * 与反混淆完全无关的插件

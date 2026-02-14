@@ -4,7 +4,6 @@
 - [Hikari](#Hikari)
 - [Pluto](#Pluto)
 - [goron](#goron)
-- [Arkari](#Arkari)
 - [O-MVLL](#O-MVLL)
 - [VMP](#VMP)
 
@@ -45,9 +44,9 @@ goron, supports LLVM 7~10. Features(in addtion to Obfuscator):
 * Indirect Call
 * Indirect GlobalVariable
 
-[https://github.com/KomiMoe/Arkari](https://github.com/KomiMoe/Arkari)
+[https://github.com/komimoe/Hikari](https://github.com/komimoe/Hikari)
 
-Arkari, based on goron, supports LLVM 14~newest.
+Arkari, based on goron, supports LLVM 14~latest.
 
 ⚠️ **Note: Goron-style (Goron/Arkari) indirect-related obfuscation can be easily deobfuscated by setting the data segment as read-only.**
 
@@ -111,6 +110,7 @@ O-MVLL is a LLVM-based obfuscator driven by Python and the LLVM pass manager. Fe
 * [aiDAPal](https://github.com/atredispartners/aidapal). Use a locally running LLM that has been fine-tuned for Hex-Rays pseudocode to assist with code analysis.
 * [Gepetto](https://github.com/JusticeRage/Gepetto). Query language models to speed up reverse-engineering.
 * [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp). AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP. 
+* [reverser_ai](https://github.com/mrphrazer/reverser_ai). Provides automated reverse engineering assistance through the use of local large language models (LLMs) on consumer hardware.
 * [WPeChatGPT](https://github.com/WPeace-HcH/WPeChatGPT). Analyze binary file, based on commonly used AI big models such as OpenAI and DeepSeek.
 
 Other useful repositories:
@@ -152,6 +152,7 @@ Other useful repositories:
 
 Other useful repositories:
 * [GAMBA](https://github.com/DenuvoSoftwareSolutions/GAMBA). Simplification of General Mixed Boolean-Arithmetic Expressions.
+* [msynth](https://github.com/mrphrazer/msynth). Code deobfuscation framework to simplify Mixed Boolean-Arithmetic (MBA) expressions.
 * [POCKET](https://github.com/seekbytes/pocket). Mixed Boolean Arithmetic Expression Obfuscator.
 * [SiMBA](https://github.com/DenuvoSoftwareSolutions/SiMBA). Efficient Deobfuscation of Linear Mixed Boolean-Arithmetic Expressions.
 * [sspam](https://github.com/quarkslab/sspam). Symbolic Simplification with PAttern Matching.

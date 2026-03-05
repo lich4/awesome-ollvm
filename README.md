@@ -93,6 +93,7 @@ O-MVLL is a LLVM-based obfuscator driven by Python and the LLVM pass manager. Fe
 * [https://github.com/NiTianErXing666/SmallVmp](https://github.com/NiTianErXing666/SmallVmp)
 * [https://github.com/25077667/VMPilot](https://github.com/25077667/VMPilot)
 * [https://github.com/GANGE666/xVMP](https://github.com/GANGE666/xVMP)
+* [https://github.com/LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker).
 
 ## List of awesome IDA deobfuscation plugins
 
@@ -178,5 +179,4 @@ Other useful repositories:
 
 * [NoVmpy](https://github.com/wallds/NoVmpy). Proof of Concept, IDA integration of a static devirtualizer for VMProtect x64 3.x. powered by VTIL.
 * [VMAttack](https://github.com/anatolikalysch/VMAttack). Use additional analysis features designed to counter virtualization-based obfuscation.
-* [VMPacker](https://github.com/LeoChen-CoreMind/VMPacker). ARM64 ELF Virtual Machine Protection System.
 

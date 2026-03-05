@@ -178,4 +178,5 @@ Other useful repositories:
 
 * [NoVmpy](https://github.com/wallds/NoVmpy). Proof of Concept, IDA integration of a static devirtualizer for VMProtect x64 3.x. powered by VTIL.
 * [VMAttack](https://github.com/anatolikalysch/VMAttack). Use additional analysis features designed to counter virtualization-based obfuscation.
+* [VMPacker](https://github.com/LeoChen-CoreMind/VMPacker). ARM64 ELF Virtual Machine Protection System.
 

@@ -167,6 +167,7 @@ Other useful repositories:
 
 * [AntiOllvm](https://github.com/IIIImmmyyy/AntiOllvm). AntiOllvm Fla with Fake Runtime.
 * [D-810](https://gitlab.com/eshard/d810). Deobfuscate code at decompilation time by modifying IDA Pro microcode.
+* [deflat](https://github.com/cq674350529/deflat)
 * [HexRaysDeob](https://github.com/RolfRolles/HexRaysDeob). A plugin for breaking an obfuscating compiler.
 * [hrtng](https://github.com/KasperskyLab/hrtng). IDA Pro plugin with a rich set of features: decryption, deobfuscation, patching, lib code recognition and various pseudocode transformations.
 * [MODeflattener](https://github.com/mrT4ntr4/MODeflattener). MODeflattener deobfuscates control flow flattened functions obfuscated by OLLVM using Miasm.

@@ -93,7 +93,7 @@ O-MVLL is a LLVM-based obfuscator driven by Python and the LLVM pass manager. Fe
 * [https://github.com/NiTianErXing666/SmallVmp](https://github.com/NiTianErXing666/SmallVmp)
 * [https://github.com/25077667/VMPilot](https://github.com/25077667/VMPilot)
 * [https://github.com/GANGE666/xVMP](https://github.com/GANGE666/xVMP)
-* [https://github.com/LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker).
+* [https://github.com/LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker)
 
 ## List of awesome IDA deobfuscation plugins
 
@@ -108,15 +108,25 @@ O-MVLL is a LLVM-based obfuscator driven by Python and the LLVM pass manager. Fe
 
 ### AI
 
+* [AiDA](https://github.com/sigwl/AiDA). An AI-powered assistant for IDA 9.0+ to accelerate reverse engineering of C++ games. 
 * [aiDAPal](https://github.com/atredispartners/aidapal). Use a locally running LLM that has been fine-tuned for Hex-Rays pseudocode to assist with code analysis.
 * [Gepetto](https://github.com/JusticeRage/Gepetto). Query language models to speed up reverse-engineering.
 * [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp). AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP. 
+* [IDAssist](https://github.com/symgraph/IDAssist). AI-Powered Reverse Engineering Plugin for IDA Pro.
+* [IDAssistMCP](https://github.com/symgraph/IDAssistMCP). Standalone MCP server plugin for IDA Pro.
+* [RevEng.AI IDA](https://github.com/RevEngAI/plugin-ida). RevEng.AI IDA Pro Plugin.
 * [reverser_ai](https://github.com/mrphrazer/reverser_ai). Provides automated reverse engineering assistance through the use of local large language models (LLMs) on consumer hardware.
+* [Rikugan](https://github.com/buzzer-re/Rikugan). A reverse-engineering agent for IDA Pro and Binary Ninja.
 * [WPeChatGPT](https://github.com/WPeace-HcH/WPeChatGPT). Analyze binary file, based on commonly used AI big models such as OpenAI and DeepSeek.
 
 Other useful repositories:
+* [BinAssist](https://github.com/symgraph/BinAssist). Binary Ninja plugin to provide LLM assistance analyzing binaries.
+* [BinAssistMCP](https://github.com/symgraph/BinAssistMCP). Binary Ninja plugin to provide MCP functionality.
+* [GhidrAssist](https://github.com/symgraph/GhidrAssist). An LLM extension for Ghidra to enable AI assistance in RE.
+* [GhidrAssistMCP](https://github.com/symgraph/GhidrAssistMCP). An MCP extension for Ghidra.
 * [GhidraMCP](https://github.com/LaurieWired/GhidraMCP). MCP Server for Ghidra.
 * [LLM4Decompile](https://github.com/albertan017/LLM4Decompile). Reverse Engineering: Decompiling Binary Code with Large Language Models.
+* [RevEng.AI Ghidra](https://github.com/RevEngAI/plugin-ghidra). RevEng.AI Ghidra Plugin.
 
 ### Ctree
 

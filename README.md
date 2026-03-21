@@ -108,13 +108,11 @@ O-MVLL is a LLVM-based obfuscator driven by Python and the LLVM pass manager. Fe
 
 ### AI
 
-* [AiDA](https://github.com/sigwl/AiDA). An AI-powered assistant for IDA 9.0+ to accelerate reverse engineering of C++ games. 
 * [aiDAPal](https://github.com/atredispartners/aidapal). Use a locally running LLM that has been fine-tuned for Hex-Rays pseudocode to assist with code analysis.
 * [Gepetto](https://github.com/JusticeRage/Gepetto). Query language models to speed up reverse-engineering.
 * [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp). AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP. 
 * [IDAssist](https://github.com/symgraph/IDAssist). AI-Powered Reverse Engineering Plugin for IDA Pro.
 * [IDAssistMCP](https://github.com/symgraph/IDAssistMCP). Standalone MCP server plugin for IDA Pro.
-* [RevEng.AI IDA](https://github.com/RevEngAI/plugin-ida). RevEng.AI IDA Pro Plugin.
 * [reverser_ai](https://github.com/mrphrazer/reverser_ai). Provides automated reverse engineering assistance through the use of local large language models (LLMs) on consumer hardware.
 * [Rikugan](https://github.com/buzzer-re/Rikugan). A reverse-engineering agent for IDA Pro and Binary Ninja.
 * [WPeChatGPT](https://github.com/WPeace-HcH/WPeChatGPT). Analyze binary file, based on commonly used AI big models such as OpenAI and DeepSeek.

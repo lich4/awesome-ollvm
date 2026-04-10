@@ -88,6 +88,30 @@ O-MVLL is a LLVM-based obfuscator driven by Python and the LLVM pass manager. Fe
 * Indirect Call
 * Opaque Constants (Constant Encryption)
 
+### amice
+
+* [https://github.com/fuqiuluo/amice](https://github.com/fuqiuluo/amice)
+
+A Rust implementation of Obfuscator-LLVM (OLLVM) passes 
+* String Encryption
+* Indirect Call Obfuscation
+* Indirect Branch Obfuscation
+* Split Basic Block
+* Switch Lowering
+* VM Flatten
+* Control Flow Flattening
+* MBA Arithmetic Obfuscation
+* Bogus Control Flow
+* Function Wrapper
+* Clone Function (Const Specialization)
+* Alias Access Obfuscation
+* Custom Calling Convention
+* Delayed Offset Loading (AMA)
+* Anti-Class Export
+* Parameter Aggregation (PAO)
+* Instruction Virtualization
+* Function Outlining (BB2FUNC)
+
 ### VMP
 
 * [https://github.com/NiTianErXing666/SmallVmp](https://github.com/NiTianErXing666/SmallVmp)
